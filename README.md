@@ -2,15 +2,7 @@
 
 👋 Hello, there! Welcome to febi's profile!
 
-🎓 I am a passionate Data Science undergraduate student at Telkom University, specializing in extracting meaningful insights from complex datasets.
-
-💡 Constantly curious and eager to learn, I love exploring the fascinating world of data. I believe in the power of data-driven decision making and enjoy leveraging cutting-edge technologies to solve real-world problems.
-
-🌟 My areas of interest includedata visualization, statistical analysis, and predictive modeling. I am particularly drawn to the intersection of data science and business, as it presents exciting opportunities for innovation and growth.
-
-🔭 Currently, I am honing my skills in various programming languages such as Python and Go.
-
-💻 On my GitHub, you will find a collection of projects and code repositories that showcase my journey as a data science enthusiast. Feel free to explore and provide feedback. Collaboration is always welcome!
+🎓 I am a Data Science undergraduate student at Telkom University.
 
 📫 Let's connect! You can reach me via email at febiboss22@gmail.com or find me on LinkedIn https://www.linkedin.com/in/dominicafebryanti/.
 
